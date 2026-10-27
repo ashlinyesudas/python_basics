@@ -1,0 +1,11 @@
+# tuple=("cr7","ronaldo","messi","neymar","dimaria","suarez","ramos","maldini")
+# print(tuple)
+# print(len(tuple))
+# print(tuple.index("messi"))
+# print(tuple.count("messi"))
+# print("cr7" in tuple)
+# print(tuple[0:6])
+
+tuple=("ashlin",)
+print(tuple)
+print(type(tuple))
